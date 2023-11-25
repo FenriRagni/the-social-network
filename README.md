@@ -16,16 +16,14 @@ Backend API for a social network
 |JavaScript|[link](https://www.w3schools.com/js/js_intro.asp)|
 |Git|[link](https://www.w3schools.com/git/git_intro.asp?remote=github)|
 |Node.js|[link](https://nodejs.org/en/docs)|
-|Mongoose|[link]()
-|MongoDB| 
-## Usage
+|Mongoose|[link](https://mongoosejs.com/docs/guide.html)|
+|MongoDB|[link](https://www.mongodb.com/)|
 
+## Usage
+[demo video link](https://drive.google.com/file/d/16WXsmM_bjMBo9Pqf4vQmTcOj2elcVhdE/view)
 
 ## Learning Points
-
-
-## Credits
-
+Learned how the syntax for manipulating NoSQL style databases works. Got a deeper understanding of MongoDB and Mongoose.
 
 ## Author
 Alonso Ampuero <br>
